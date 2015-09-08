@@ -1,0 +1,19 @@
+	#info{
+		position: absolute;
+		top: 17%;
+		left: 14%;
+		height: auto;
+		width: 82%;
+	}
+	.text{
+		width: inherit;
+		height: 900px;
+	}
+	.help{
+		text-align: right;
+	}
+	#pic{
+		position: absolute;
+ 		top: 15%;
+  		left: 82%;
+  	}
